@@ -65,3 +65,27 @@ This project requires an API key from OpenWeather.
 2. Copy generated API key and give that value as String to const var apiKey
 
 ---
+
+## What I Learned
+
+- How to manipulate the DOM using Vanilla JavaScript  
+
+- How to make API requests using the fetch API  
+
+- How to handle asynchronous operations using async/await  
+
+- How to implement exception handling using try-catch blocks  
+
+- How to work with external APIs and process JSON responses  
+
+- How to structure a frontend project in a clean and readable way  
+
+- How to safely manage API keys in a public GitHub repository
+
+---
+
+## Author
+
+Prathamesh Gawas
+
+---
