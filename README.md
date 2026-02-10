@@ -32,7 +32,12 @@ The main objective of this project is to understand API integration, asynchronou
 
 ## Project Structure
 
-weather.html
-weather.js
+README.md
+
 style.css
-readme.md
+
+weather.html
+
+weather.js
+
+
