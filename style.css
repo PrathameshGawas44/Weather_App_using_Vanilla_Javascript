@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #74ebd5, #acb6e5);
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  text-align: center;
+  width: 350px;
+}
+
+input {
+  padding: 8px;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  cursor: pointer;
+  width: 80%;
+}
+
+#weatherResult {
+  margin-top: 15px;
+}
