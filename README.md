@@ -41,3 +41,27 @@ weather.html
 weather.js
 
 
+---
+
+## Application Flow
+
+1. The user enters a city name in an HTML input field and validations like empty city name is handled by JavaScript.
+2. JavaScript accesses the city name using the input element’s id.
+3. An API request is made to the OpenWeather API using fetch.
+4. The API call is handled asynchronously using async/await.
+5. Errors such as invalid city names or network issues are handled using try-catch blocks.
+6. The fetched weather data is displayed on the webpage.
+
+---
+
+## API Key Setup
+
+This project requires an API key from OpenWeather.
+
+### Steps
+
+1. Generate an API key from https://openweathermap.org/api  
+
+2. Copy generated API key and give that value as String to const var apiKey
+
+---
